@@ -23,4 +23,5 @@ export interface Config {
     sessionCheckInterval: string;
     balancesFetchInterval: string;
     passwordEntropyStep: number;
+    showLanding: boolean;
 }
